@@ -1,1 +1,1 @@
-This lab is meant to help students learn how to use GitHub with multpile people and handle our own repository. The code solves simple math equations like calculating the area of a circle and triangle, celcius to fahrenheit, and if a word is a palindrome
+This lab is meant to help students learn how to use GitHub with multpile people and handle our own repository. The code solves simple math equations like calculating the area of a circle and triangle, celcius to fahrenheit, and if a word is a palindrome.
